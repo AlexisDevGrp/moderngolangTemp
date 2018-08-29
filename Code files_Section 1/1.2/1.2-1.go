@@ -14,7 +14,7 @@ func main() {
 	case 3:
 		fmt.Println("I am 3")
 	case 2:
-		fmt.Println("I am 2")
+		fmt.Println("I am 2a")
 	case 4:
 		fmt.Println("I am 4")
 	}
