@@ -12,7 +12,7 @@ func main() {
 	//fmt.Println(x * 10)
 	switch x := 2; x {
 	case 3:
-		fmt.Println("I am 3")
+		fmt.Println("I am 3x")
 	case 2:
 		fmt.Println("I am 2a")
 	case 4:
